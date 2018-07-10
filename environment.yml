@@ -4,5 +4,4 @@ channels:
 dependencies:
   - matplotlib
   - jupyter
-  - pip:
-    - pyquil
+  - pyquil
